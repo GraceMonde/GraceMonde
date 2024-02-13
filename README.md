@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GraceMonde
+- 👋 Hi, I’m Grace
 - 👀 I’m interested in java and python projects
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on fun coding projects
