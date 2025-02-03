@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on fun coding projects
 - 📫 How to reach me: you can find my email in my profile
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm not only a tech girly but also play piano and sing
 
 <!---
 GraceMonde/GraceMonde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
