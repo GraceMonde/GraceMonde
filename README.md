@@ -1,11 +1,25 @@
-- 👋 Hi, I’m Grace
-- 👀 I’m interested in learning new languages and broadening my problem solving abilities
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on fun coding projects
-- 📫 How to reach me: you can find my email in my profile
-- 😄 Pronouns: she/her
+# Hi, my name is Grace 
 
-<!---
-GraceMonde/GraceMonde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **Software Engineer and Data Scientist** passionate about creating smart, scalable, and user-focused digital solutions. I enjoy working across the full stack—from backend systems and databases to intuitive user interfaces, and I leverage data to uncover insights and guide better decision-making.
+
+### Technologies & Tools I Work With
+
+**Programming Languages:**  
+- JavaScript • Node.js • Python • Java  
+- HTML • CSS  
+- MySQL (Database Design & Query Optimization)
+
+**Data & Analytics:**  
+- Excel (Advanced Analysis & Automation)  
+- Tableau (Dashboards & Storytelling)  
+- Data Cleaning, Modeling & Visualization  
+
+**Design & Prototyping:**  
+- Figma (UI/UX Prototyping)
+
+### What I Do
+- Build modern web applications with clean, maintainable code  
+- Design relational databases and optimize system performance  
+- Analyze datasets to derive insights and build data-driven features  
+- Prototype user-friendly interfaces and refine user experience  
+- Continuously learn new technologies and improve engineering practices  
