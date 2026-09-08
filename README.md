@@ -1,6 +1,6 @@
 # Hi, my name is Grace 
 
-I'm a **Software Engineer and Data Scientist** passionate about creating smart, scalable, and user-focused digital solutions. I enjoy working across the full stack—from backend systems and databases to intuitive user interfaces, and I leverage data to uncover insights and guide better decision-making.
+I'm a **Software Engineer** passionate about creating smart, scalable, and user-focused digital solutions. I enjoy working across the full stack—from backend systems and databases to intuitive user interfaces, and I leverage data to uncover insights and guide better decision-making.
 
 ### Technologies & Tools I Work With
 
