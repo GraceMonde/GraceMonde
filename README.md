@@ -7,12 +7,7 @@ I'm a **Software Engineer and Data Scientist** passionate about creating smart, 
 **Programming Languages:**  
 - JavaScript • Node.js • Python • Java  
 - HTML • CSS  
-- MySQL (Database Design & Query Optimization)
-
-**Data & Analytics:**  
-- Excel (Advanced Analysis & Automation)  
-- Tableau (Dashboards & Storytelling)  
-- Data Cleaning, Modeling & Visualization  
+- MySQL (Database Design & Query Optimization) 
 
 **Design & Prototyping:**  
 - Figma (UI/UX Prototyping)
